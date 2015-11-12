@@ -7,7 +7,7 @@ Yes, I know that **react hot loader** is being deprecated in favour of [React Tr
 
 Clone the repo
 
-`$ git clone ...`
+`$ git clone git@github.com:vrde/webpack-test.git`
 
 
 Install dependencies
@@ -17,7 +17,7 @@ Install dependencies
 
 Run the dev server
 
-`webpack-dev-server --hot --inline`
+`$ webpack-dev-server --hot --inline`
 
 
 Point your browser to [http://localhost:8080/webpack-dev-server/](http://localhost:8080/webpack-dev-server/).
